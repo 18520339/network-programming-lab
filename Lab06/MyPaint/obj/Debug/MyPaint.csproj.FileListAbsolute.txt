@@ -1,0 +1,53 @@
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\Quan Kun\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\QuanKun\OneDrive\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Server.resources
+C:\Users\QuanKun\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Client.resources
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Server.resources
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Client.resources
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Admin\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Server.resources
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.frm_Client.resources
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Admin\Desktop\LAB06_18521336_18520339\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb

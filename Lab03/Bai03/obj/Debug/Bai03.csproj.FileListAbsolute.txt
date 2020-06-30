@@ -1,0 +1,12 @@
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\bin\Debug\Bai03.exe
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\bin\Debug\Bai03.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.csprojAssemblyReference.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.frm_Client.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.frm_Server.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.exe
+C:\Users\QuanKun\OneDrive\Desktop\Lab03\Bai03\obj\Debug\Bai03.pdb

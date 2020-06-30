@@ -1,0 +1,34 @@
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Bai03.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Bai02.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Bai01.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.Bai04.resources
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\QuanKun\OneDrive\Desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\bin\Debug\Lab04.exe.config
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\bin\Debug\Lab04.exe
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\bin\Debug\Lab04.pdb
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\bin\Debug\Newtonsoft.Json.dll
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\bin\Debug\Newtonsoft.Json.xml
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Bai03.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Bai02.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Bai01.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Bai04.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.exe
+J:\OneDrive - Linux Team Việt Nam Academy\UIT\Lập trình mạng căn bản\ThucHanh\Lab04\Lab04\obj\Debug\Lab04.pdb
