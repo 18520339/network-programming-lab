@@ -1,0 +1,65 @@
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.csprojAssemblyReference.cache
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.Properties.Resources.resources
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.GenerateResource.cache
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailApp.exe.config
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailApp.exe
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailApp.pdb
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_MailBox.resources
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.exe
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.pdb
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_Compose.resources
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_SignIn.resources
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailApp.exe.config
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailApp.exe
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailApp.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.csprojAssemblyReference.cache
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_Compose.resources
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_MailBox.resources
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.Properties.Resources.resources
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_SignIn.resources
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.GenerateResource.cache
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.exe
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailKit.dll
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MimeKit.dll
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailKit.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MailKit.xml
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MimeKit.pdb
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\bin\Debug\MimeKit.xml
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailKit.dll
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MimeKit.dll
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailKit.pdb
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MailKit.xml
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MimeKit.pdb
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\bin\Debug\MimeKit.xml
+C:\Users\Quan Kun\Desktop\Bai06\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\QuanKun\OneDrive\Desktop\Bai06\MailApp\obj\Debug\MailApp.frm_Loading.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\Lab05.exe.config
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\Lab05.exe
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\Lab05.pdb
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MailKit.dll
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MimeKit.dll
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MailKit.pdb
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MailKit.xml
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MimeKit.pdb
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\bin\Debug\MimeKit.xml
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.csprojAssemblyReference.cache
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.frm_Compose.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.frm_Loading.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.frm_MailBox.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.frm_SignIn.resources
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.csproj.GenerateResource.cache
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\Lab05.exe
+C:\Users\QuanKun\OneDrive\Desktop\mail-app\MailApp\obj\Debug\Lab05.pdb
