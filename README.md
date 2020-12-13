@@ -1,4 +1,4 @@
-# Thực hành lập trình mạng UIT
+# Thực hành Lập trình mạng UIT
 
 - [Lab 01 - Lập trình C# và Windows Forms cơ bản](https://github.com/18520339/network-programming-lab/tree/master/Lab01)
 
